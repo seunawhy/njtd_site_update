@@ -1,0 +1,318 @@
+{
+    "main": [
+        {
+            "name": "Engr. Prof. J. K. Odusote",
+            "portfolio": "Dean of Faculty",
+            "dept": "Dept. of Materials & Metallurgical Engineering",
+            "institution": "University of Ilorin",
+            "location": "Ilorin, Nigeria."
+        },
+        {
+            "name": " Engr. Prof. I. I. Ahmed",
+            "portfolio": "Editor-In-Chief",
+            "dept": "Dept. of Materials & Metallurgical Engineering",
+            "institution": "University of Ilorin",
+            "location": "Ilorin, Nigeria."
+        },
+        {
+            "name": " Engr. Dr. T. D. Akpenpuun",
+            "portfolio": "Deputy Editor-in-Chief",
+            "dept": "Dept. of Agricultural and Biosystems Engineering",
+            "institution": "University of Ilorin",
+            "location": "Ilorin, Nigeria."
+        },
+         {
+            "name": " Engr. Dr. A. O. Otuoze",
+            "portfolio": "Managing Editor",
+            "dept": "Dept. of Electrical & Electronics Engineering",
+            "institution": "University of Ilorin",
+            "location": "Ilorin, Nigeria."
+        },
+        {
+            "name": "Engr. Prof. (Mrs.) O. A. A. Eletta",
+            "portfolio": "Copy Editor",
+            "dept": "Dept. of Chemical Engineering",
+            "institution": "University of Ilorin",
+            "location": "Ilorin, Nigeria."
+        },
+        
+        {
+            "name": "Engr. Prof. (Mrs.) N. T. Surajudeen-Bakinde",
+            "portfolio": "Copy Editor",
+            "dept": "Dept. of Electrical and Electronics Engineering",
+            "institution": "University of Ilorin",
+            "location": "Ilorin, Nigeria."
+        },
+        {
+            "name": " Engr. Prof. H. A. Ajimotokan",
+            "portfolio": "Copy Editor",
+            "dept": "Dept. of Mechanical Engineering",
+            "institution": "University of Ilorin",
+            "location": "Ilorin, Nigeria."
+        },
+        
+        {
+            "name": "Engr. Prof. (Mrs.) R. M. Mahamood",
+            "portfolio": "Production Editor",
+            "dept": "Dept. of Materials & Metallurgical Engineering",
+            "institution": "University of Ilorin",
+            "location": "Ilorin, Nigeria."
+        },
+        {
+            "name": "Engr. M. A. Amoloye",
+            "portfolio": "Production Editor",
+            "dept": "Dept. of Chemical Engineering",
+            "institution": "University of Ilorin",
+            "location": "Ilorin, Nigeria."
+        },
+          {
+            "name": "Engr. (Mrs.) O. F. Atilola",
+            "portfolio": "Production Editor",
+            "dept": "Dept. of Electrical & Electronics Engineering",
+            "institution": "Redeemer’s University",
+            "location": "Ede, Nigeria."
+        },
+        {
+            "name": "Engr. Dr. (Mrs.) O. A. Mokuolu",
+            "portfolio": "Treasurer",
+            "dept": "Dept. of Water Resources and Environmental Engineering",
+            "institution": "University of Ilorin",
+            "location": "Ilorin, Nigeria."
+        },
+        {
+            "name": "Engr. Prof. B. J. Olufeagba",
+            "portfolio": "Foundation Editor-In-Chief",
+            "dept": "Dept. of Electrical and Electronics Engineering",
+            "institution": "University of Ilorin",
+            "location": "Ilorin, Nigeria."
+        }
+    ],
+    "section": [
+        {
+            "portfolio": "Section A: Chemical Engineering, Petroleum Engineering and Environmental Engineering",
+            "name": "Engr. Dr. H. U. Hambali",
+            "dept": "Department of Chemical Engineering",
+            "institution": "University of Ilorin",
+            "location": "Ilorin, Nigeria."
+        },
+        {
+            "portfolio": "Section B: Materials and Metallurgical Engineering, Geology and Geophysics",
+            "name": "Engr. Dr. J. A. Adebisi",
+            "dept": "Department of Materials and Metallurgical Engineering",
+            "institution": "University of Ilorin",
+            "location": "Ilorin, Nigeria."
+        },
+        {
+            "portfolio": "Section C: Biomedical Engineering",
+            "name": "Engr. Dr. S. A. Yahaya",
+            "dept": "Department of -Biomedical Engineering ",
+            "institution": "University of Ilorin",
+            "location": "Ilorin, Nigeria."
+        },
+        {
+            "portfolio": "Section D: Civil and Water Resources Engineering",
+            "name": "Dr. Y. O. Babatunde",
+            "dept": "Department of Civil Engineering",
+            "institution": "University of Ilorin",
+            "location": "Ilorin, Nigeria."
+        },
+        {
+            "portfolio": "Section E: Mechanical Engineering",
+            "name": "Dr. K. O. Abdulrahman",
+            "dept": "Department of Mechanical Engineering,",
+            "institution": "University of Ilorin",
+            "location": "Ilorin, Nigeria."
+        },
+         {
+            "portfolio": "Section :F Electrical and Electronics Engineering, Computer Engineering, Applied Mathematics, and Computer Science",
+            "name": "Dr. A. S. Afolabi",
+            "dept": "Department of Electrical and Electronics Engineering",
+            "institution": "University of Ilorin",
+            "location": "Ilorin, Nigeria."
+        },
+         
+        {
+            "portfolio": "Editorial Assistant",
+            "name": "Mrs. Adepeju A. Adeboboye ",
+            "dept": "Department of Computer Engineering",
+            "institution": "University of Ilorin",
+            "location": "Ilorin, Nigeria."
+        }
+    ],
+      "guest": [
+        {
+            "portfolio": "Agricultural and Biosystems Engineering, Food Engineering and Applied Sciences",
+            "name": "Prof. Y. Mijinyawa",
+            "dept": "Department of Agricultural and Environmental Engineering",
+            "institution": "University of Ibadan",
+            "location": "Ibadan, Nigeria."
+        },
+        {
+            "portfolio": "Guest Editor",
+            "name": "Dr. S. I. Talabi",
+            "dept": "Department of Materials Science and Engineering ",
+            "institution": "Oak Ridge National Laboratory",
+            "location": "USA."
+        },
+        {
+            "portfolio": "Guest Editor",
+            "name": "Dr. B. Jimada-Ojuolape",
+            "dept": "Department of Electrical and Computer Engineering ",
+            "institution": "Kwara State University",
+            "location": "Malete, Nigeria."
+        }
+    ],
+
+    "advisory": [
+        {
+            "name": "Prof J. O. Ojo",
+            "dept": "Dept. of Electrical and Computer Engineering",
+            "institution": "Tennessee Technological University",
+            "location": "Cookeville, Tennessee, USA."
+        },
+        {
+            "name": "Prof. Foluso Ladehinde",
+            "dept": "Dept. of Mechanical Engineering",
+            "institution": "State University of New York",
+            "location": "Stony Brook, New York, USA."
+        },
+        {
+            "name": "Prof. Y. A. Jimoh",
+            "dept": "Dept. of Civil Engineering",
+            "institution": "University of Ilorin",
+            "location": "Ilorin, Nigeria."
+        },
+        {
+            "name": "Dr. Olugbenga Mejabi",
+            "dept": "Dept. of Mechanical Engineering",
+            "institution": "Wayne State University",
+            "location": "Detroit, Michigan, USA."
+        },
+        {
+            "name": "Prof. Samuel John",
+            "dept": "Dept. of Mechanical Engineering",
+            "institution": "Namibia University of Sci & Tech",
+            "location": "Windhoek, Namibia."
+        },
+        {
+            "name": "Prof. J. A. Olorunmaiye",
+            "dept": "Dept. of Mechanical Engineering",
+            "institution": "University of Ilorin",
+            "location": "Ilorin, Nigeria."
+        },
+        {
+            "name": "Dr. S. S. Zakariyah",
+            "dept": "College of Engineering and Technology",
+            "institution": "University of Derby, Derby DE22",
+            "location": "3AW, UK."
+        },
+        {
+            "name": "Prof. J. A. Omoleye",
+            "dept": "Dept. of Chemical Engineering",
+            "institution": "Covenant University",
+            "location": "Ota, Ogun State, Nigeria."
+        },
+        {
+            "name": "Prof. J. O. Omolehin",
+            "dept": "Dept. of Mathematics",
+            "institution": "Federal University Lokoja",
+            "location": "Lokoja, Nigeria."
+        },
+        {
+            "name": "Dr. P. Sanjeevikumar",
+            "dept": "School of Electrical & Electronics Engineering",
+            "institution": "Dublin Institute of Technology",
+            "location": "Kevin Street, Dublin-8, Ireland."
+        },
+        {
+            "name": "Dr. T. A. Jumani",
+            "dept": "Dept. of Electrical Engineering",
+            "institution": "SZAB Campus, Mehran University of Engineering & Technology",
+            "location": "Khairpur Mirs, Pakistan."
+        },
+        {
+            "name": "Prof. A. O. Ogunlela",
+            "dept": "Dept. of Agricultural & Biosystems Engineering",
+            "institution": "University of Ilorin",
+            "location": "Ilorin, Nigeria."
+        },
+        {
+            "name": "Prof. S. A. Abdulkareem",
+            "dept": "Dept. of Chemical Engineering",
+            "institution": "University of Ilorin",
+            "location": "Ilorin, Nigeria."
+        },
+        {
+            "name": "Prof. B. F. Sule",
+            "dept": "Dept. of Civil Engineering",
+            "institution": "University of Ilorin",
+            "location": "Ilorin, Nigeria."
+        },
+        {
+            "name": "Prof. S. M. Adedayo",
+            "dept": "Dept. of Mechanical Engineering",
+            "institution": "University of Ilorin",
+            "location": "Ilorin, Nigeria."
+        },
+        {
+            "name": "Prof. Victor Kamara",
+            "dept": "Dept. of Civil and Environmental Engineering",
+            "institution": "Namibia University of Science & Technology, Windhoek, Namibia.",
+            "location": ""
+        },
+        {
+            "name": "Dr James Titiloye",
+            "dept": "Dept. of Chemical & Environmental Engineering",
+            "institution": "Swansea University",
+            "location": "Swansea, United Kingdom."
+        },
+        {
+            "name": "Dr. Edris Pouresmaeil",
+            "dept": "Dept. of Electrical Engineering and Automation",
+            "institution": "Aalto University",
+            "location": "Espoo, Finland."
+        },
+        {
+            "name": "Prof. G. A. Bakare",
+            "dept": "Dept. of Electrical & Electronics Engineering",
+            "institution": "Abubakar Tafawa Balewa University",
+            "location": "Bauchi, Nigeria."
+        },
+        {
+            "name": "Prof. A. M. Olaniyan",
+            "dept": "Dept. of Agricultural & Bio-Resource Engineering",
+            "institution": "Federal University Oye",
+            "location": "Ekiti, Nigeria."
+        },
+          {
+            "name": "Dr. M. Y. S. Hamid",
+            "dept": "School of Chemical and Energy Engineering,",
+            "institution": "Universiti Teknologi Malaysia",
+            "location": "Skudai, Johor, Malaysia."
+        },
+        {
+            "name": "Prof. O. Adegbenro",
+            "dept": "Dept. of Electrical/Electronics Engineering",
+            "institution": "University of Lagos",
+            "location": "Lagos, Nigeria."
+        },
+        {
+            "name": "Dr. A. M. Aliyu",
+            "dept": "Dept. of Engineering and Technology",
+            "institution": "University of Huddersfield",
+            "location": "Queensgate HD1 3DH, UK."
+        },
+        {
+            "name": "Dr. K. B. Mustapha",
+            "dept": "Dept. of Mechanical, Materials and Manufacturing Engineering",
+            "institution": "University of Nottingham Malaysia Campus",
+            "location": "Selangor Darul Ehsan, Malaysia."
+        },
+        {
+            "name": "Dr. Umbrin Sultana",
+            "dept": "Dept. of Electrical Engineering",
+            "institution": "NED University of Engineering & Technology",
+            "location": "Karachi, Pakistan"
+        }
+    ]
+}

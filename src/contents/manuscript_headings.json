@@ -1,0 +1,116 @@
+[{
+        "heading": "Title Page",
+        "body": "The title page should contain only the title of the article, authors’ names and contact details such as institutional affiliations, corresponding author’s email address and phone number. The page is also to contain the abstract of the article and the list of three suggested reviewers. The title page should be uploaded as a supplementary document on the Author’s portal during the submission process. The file containing this document should be named Title_Page. The Author Contributions should be included on the title page."
+    },
+    {
+        "heading": "The Anonymised Manuscript ",
+        "body": "The manuscript should contain the title of the article, the abstract, and five or six keywords. However, it must NOT contain name(s), and address(es) of author(s), and e-mail addresses and telephone number of the corresponding author. These information will be supplied on the online submission platform in addition to the title page. This file should be named Manuscript and to be uploaded on the portal during submission. The manuscript should be organised under the following headings:"
+    },
+    {
+        "heading": "The Article Title",
+        "body": "A good title should be concise, accurate, and informative, and should inform the reader exactly what the article is all about. It is vital to incorporate some relevant keywords in your title to make your article more discoverable in online searches. Please note that the article title should not exceed seventeen (17) words and should be in title case letters."
+    },
+    {
+        "heading": "ABSTRACT",
+        "body": "The abstract is a brief summary of the research work, which is usually in a paragraph. It should clearly define the problems of study, methodology adopted, results and findings. Citation of previous works are not allowed in the abstract. Abstracts are expected to be stand-alone and capable of providing fast and complete, yet short information about the article. Articles to be submitted to NJTD must have a maximum of 200 words. Authors should pay attention to this word limit!"
+    },
+    {
+        "heading": "KEYWORDS",
+        "body": "Five or six relevant keywords should be provided on the manuscript. "
+    },
+    {
+        "heading": "SYMBOLS, ABBREVIATIONS AND UNITS",
+        "body": "Symbols and abbreviations should be defined where first mentioned. If the symbols are many, a “Notation” defining the symbols must be included between the abstract and Introduction. SI units should be used."
+    },
+    {
+        "heading": "I. INTRODUCTION",
+        "body": "This should include the background to the study, a brief review of literature and clearly-stated objectives. The last paragraph should delve into the contributions of the work and structure of the rest of the paper."
+    },
+    {
+        "heading": "II. THEORETICAL ANALYSIS",
+        "body": "The mathematical principles or theories used should be included as appropriate."
+    },
+    {
+        "heading": "III. MATERIALS AND METHODS/METHODOLOGY/EXPERIMENTAL PROCEDURE",
+        "body": "This section should include apparatus and equipment setup, work materials, design, experimental methods, as applicable."
+    },
+    {
+        "body_italics": "A. Sub-section One",
+        "body": "The heading of a sub-section should be in title case letters as illustrated here. In other words, the first letter of an important word must be in upper case letter."
+    },
+    {
+        "body_italics": "B. Sub-section Two",
+        "body": "The introductory statements should be in the normal 12 point font size. A sub-section may have sub sub-section which are illustrated below in 1) and 2)."
+    },
+    {
+        "body_italics": "1) Sub sub-section One",
+        "body": "A sub sub-section heading should have a sentence case in which case it is only the first letter of the heading that would be in upper case letter. Others will be in lower case letters."
+    },
+    {
+        "body_italics": "2) Sub sub-section Two",
+        "body": "Same as 1) above."
+    },
+    {
+        "heading": "IV. RESULTS AND DISCUSSION",
+        "body": "Results could be presented in descriptive, tabular or graphical form. Information presented in tables should not be repeated as figures. Discussion should be focused on the interpretation of experimental findings. This may be broken down into different sub-sections and sub sub-sections as discussed in Section III above."
+    },
+    {
+        "body_italics": "A. Tables and Figures",
+        "body": "Tables and Figures should be placed as close as possible to the first place of reference in the text. References should be made to all the tables and figures and each must be discussed in the manuscript. Authors should endeavour to supply very high quality figures. Editable charts must be provided while “copy and paste” figures must be avoided as much as possible.",
+        "body_2": "It should be noted that good quality articles can be denied publication in NJTD on account of poor quality figures and tables. "
+    },
+    {
+        "body_italics": "B. Equations",
+        "body": "All equations, whether mathematical or chemical, are considered as text and should be typed using Microsoft Equation 3.0 or MathType in Word. These equations should be numbered sequentially and should be referenced and discussed in the text. Equation numbers should be enclosed in parentheses and made to align towards the right hand margin of the text. If detailed derivation is needed, it is to be placed in an appendix. Each equation should appear on its own line and should be indented from the left margin of the text. "
+    },
+    {
+        "heading": "V. CONCLUSION",
+        "body": "The conclusion should be a brief summary of findings. It should clearly state the contributions, relevance of the findings and recommendations, as appropriate. It is usually reported in the past tense form."
+    },
+    {
+        "heading": "AUTHOR CONTRIBUTIONS",
+        "body": "For transparency, authors should submit an author statements outlining individual contributions to the paper using the following roles: Conceptualization; Data curation; Formal analysis; Funding acquisition; Investigation; Methodology; Project administration; Resources; Software; Supervision; Validation; Visualization; Writing - original draft; Writing - review & editing.",
+        "body_2": "For example, S. O. Sanni: Conceptualization, Methodology, Software, Validation, Writing – original draft, Writing – review & editing. M. F. Akorede: Supervision, Writing – original draft, Writing – review & editing. G. A. Olarinoye: Writing – review & editing."
+    },
+    {
+        "heading": "ACKNOWLEDGEMENT (S)",
+        "body": "Acknowledgement of the individuals, institutions or research granting body who provided help during the research should be collated in a separate section at the end of the article before the references and should, therefore, not be included on the title page, as a footnote to the title or otherwise.",
+        "body_2": "NOTE: Author Contributions and Acknowledgement should initially be included on the title page of the manuscript until after paper acceptance."
+    },
+    
+    {
+        "heading": "REFERENCES",
+        "body": "The Harvard system (alphabetical listing) of referencing should be used in the body of the manuscript while only essential references must be cited and listed. Examples of citing references include: Omeiza (2012) or (Omeiza, 2012) as appropriate; Olaniyan and Oje (2002) or (Olaniyan and Oje, 2002) as appropriate; Ogunlela et al (2006) or (Ogunlela et al, 2006) as appropriate. Examples of listing references are as follows: ",
+        "list": [{
+                "key": "Books",
+                "value": "<p>Adedayo, S. M. (2000). Graphics for Engineers. Indemac Publishers, Ilorin, Nigeria.</p>"
+            },
+            {
+                "key": "Journals",
+                "value": "<u>One Author</u> <br/><p>Omeiza, I. O. A. (2012). An Investigation on the Problem of Thinning in Fingerprint Processing. Nigerian Journal of Technological Development, 9 (1): 26 - 36.<p><br><u>Two Authors</u> <br/><p>Olaniyan, A. M. and Oje, K. (2002). Some Aspects of the Mechanical Properties of Shea Nuts. Biosystems Engineering, 81 (4): 413-420.</p></p> <br> <u>Three Authors</u> <br> <p>Ogunlela, A. O.; M. Y. Kasali and I. E. Ahaneku. (2006). Hydrologic Characterization of the National Centre for Agricultural Mechanization (NCAM) Watershed. Journal of Science and Technology Research, 5 (3): 69-73.</p><br> <u> More Than Three Authors</u> <p>Ogunlela, A. O.; M. Y. Kasali; C. J. Ejieji and I. E. Ahaneku. (2006). Hydrologic Characterization of the National Centre for Agricultural Mechanization (NCAM) Watershed. Journal of Science and Technology Research, 5 (3): 69-73.</p>"
+            },
+            {
+                "key": "Conference Papers",
+                "value": "<p>Akorede, M. F., and Hizam, H. (2009). Teaching power system analysis courses using MATPOWER. Paper presented at International Conference on Engineering Education (ICEED2009), Kuala Lumpur, Malaysia, 45-51, USA: IEEE.</p>"
+            },
+            {
+                "key": "Reports, Thesis and Dissertation",
+                "value": "<p>Abioye, A. M. (2001). Design of Engineering Power Transmission Elements using Visual Basic. Unpublished M.Eng. Thesis, Department of Electrical & Electronics Engineering, Universiy of Ilorin, Ilorin, Nigeria.</p>"
+            },
+            {
+                "key": "Web Publications",
+                "value": "<p>Anderson, T. (1996). A Data Envelopment Analysis (DEA). Available online at: www.emp.pdx.edu/dea/homedea.html. Accessed on March 7, 2013.</p>"
+            }
+        ]
+    },
+    {
+        "heading": "NOTES",
+        "body": "1. All authors on the cited work must be listed. The use of “et al” in the list of references is not acceptable.",
+        "body_2": "2. All citation details such as journal name, vol no, issue no, page nos for a journal source and conference city, and country for a conference paper, must be present.",
+        "body_3": "3. Ensure you list the authors’ surname and not authors’ first name. This could be confirmed by searching the article’s title in Google scholar when in doubt."
+    },
+    {
+        "heading": "APPENDICES",
+        "body": "If there is only one appendix in the article, it should just read “Appendix”. However, if there are more than one appendix in the text, they should be identified as “Appendix A”, “Appendix B”, etc. Formulae and equations in appendices should be given separate numbering, such as Eq. (A.1), Eq. (A.2), etc, and Eq. (B.1), Eq. (B.2), etc, in a subsequent appendix, and so on. Similarly for tables and figures: Table A.1; Fig. A.1, etc."
+    }
+]

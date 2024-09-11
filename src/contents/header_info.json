@@ -1,0 +1,25 @@
+{
+    "tagline": "A Quarterly Double-blind Peer-reviewed Journal",
+    "site": [
+        {
+            "icon": "old-phone",
+            "data": "+234          "
+        },
+        {
+            "icon": "mail",
+            "data": "njtd_man_editor@unilorin.edu.ng"
+        },
+        {
+            "icon": "mail",
+            "data": "njtd_editor_chief@unilorin.edu.ng"
+        },
+        {
+            "icon": "open-book",
+            "data": "Print ISSN: 0189-9546"
+        },
+        {
+            "icon": "globe",
+            "data": "Online ISSN: 2437-2110"
+        }
+    ]
+}

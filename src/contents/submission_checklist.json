@@ -1,0 +1,29 @@
+[{
+        "entry": "The title page contains only:",
+        "list": [
+            "Manuscript title;",
+            "Authors’ names, affiliations, and contact details of the corresponding author;",
+            "The abstract;",
+            "Five or six keywords; ",
+            "Author Contributions and Acknowledgement; and",
+            "A list of three suggested reviewers and their email addresses has been provided."
+        ]
+    },
+    {
+        "entry": "Ensure that the main manuscript DOES NOT contain the authors’ details and contacts such as:",
+        "list": [
+            "Authors’ Names",
+            "Postal Address",
+            "Email Address",
+            "Phone Number"
+        ]
+    },
+    {
+        "entry": "Further Considerations:",
+        "list": [
+            "Manuscript has been \"spell-checked\" and \"grammar-checked\"",
+            "References are in the correct format for this journal",
+            "All references mentioned in the Reference list are cited in the text, and vice versa"
+        ]
+    }
+]

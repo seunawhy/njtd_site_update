@@ -1,0 +1,143 @@
+// @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import './typography.scss';
+@import './variables.scss';
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 20px;
+}
+
+body {
+    font-family: $base-font-family;
+    font-size: $body;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+
+.layout {
+    max-width: $max-width !important;
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+a {
+    color: $blue;
+    text-decoration: none;
+}
+
+p {
+    line-height: 25px;
+}
+
+svg {
+    display: inline;
+}
+
+input,
+button {
+    outline: 0;
+}
+
+// classes
+.primary {
+    background-color: $navy-blue;
+}
+
+.primary-text {
+    color: $navy-blue;
+}
+
+.secondary {
+    background-color: $orange;
+}
+
+.secondary-text {
+    color: $orange;
+}
+
+.navy-blue {
+    background-color: $navy-blue;
+}
+
+.navy-blue-text {
+    color: $navy-blue;
+}
+
+.blue {
+    background-color: $blue;
+}
+
+.blue-text {
+    color: $blue;
+}
+
+.light-blue {
+    background-color: $light-blue;
+}
+
+.light-blue-text {
+    color: $light-blue;
+}
+
+.orange {
+    background-color: $orange;
+}
+
+.orange-text {
+    color: $orange;
+}
+
+.light-orange {
+    background-color: $light-orange;
+}
+
+.light-orange-text {
+    color: $light-orange;
+}
+
+.white {
+    background-color: $white;
+}
+
+.white-text {
+    color: $white;
+}
+
+.black {
+    background-color: $black;
+}
+
+.black-text {
+    color: $black;
+}
+
+.dark {
+    background-color: $dark;
+}
+
+.dark-text {
+    color: $dark;
+}
+
+.gray {
+    background-color: $gray;
+}
+
+.gray-text {
+    color: $gray;
+}
+
+// Dimension
+.full-width {
+    width: 100%;
+}
+
+.full-height {
+    height: 100%;
+}
+
+.page-height {
+    height: 100vh;
+}
