@@ -5,35 +5,47 @@
             "portfolio": "Dean of Faculty",
             "dept": "Dept. of Materials & Metallurgical Engineering",
             "institution": "University of Ilorin",
-            "location": "Ilorin, Nigeria."
+            "location": "Ilorin, Nigeria.",
+            "picture":"../assets/img/Engr_odusote.jpg",
+            "brief": "Prof. Jamiu Kolawole Odusote is a Professor in the Department of Materials and Metallurgical Engineering, University of Ilorin, Nigeria. His research interests include Materials development & characterization, corrosion and high-temperature oxidation, casting and alloy development, waste valorization, and biomass to energy materials (fuels). He has published several articles in high-impact journals and participated in numerous conferences, workshops, and seminars. Prof. Odusote is a Registered Engineer with the Council for the Regulation of Engineering in Nigeria, a Corporate Member of the Nigerian Society of Engineers, a Fellow of the Nigerian Institution of Materials, Mining and Metallurgical Engineers (NIMMME), and a member of several other professional bodies within and outside Nigeria. He is currently the Dean of the Faculty of Engineering and Technology.<br><br>You can reach him via:<br>Email: <a href='mailto:odusote.jk@unilorin.edu.ng'>odusote.jk@unilorin.edu.ng</a><br>ORCID: <a href='http://orcid.org/0000-0003-1613-7151' target='_blank'>http://orcid.org/0000-0003-1613-7151</a><br>Google Scholar: <a href='https://scholar.google.com/citations?user=3Wdlp3gAAAAJ&hl=en&oi=ao' target='_blank'>https://scholar.google.com/citations?user=3Wdlp3gAAAAJ&hl=en&oi=ao</a><br>SCOPUS: <a href='https://www.scopus.com/authid/detail.uri?authorId=55178497300' target='_blank'>https://www.scopus.com/authid/detail.uri?authorId=55178497300</a>"
         },
         {
             "name": " Engr. Prof. I. I. Ahmed",
             "portfolio": "Editor-In-Chief",
             "dept": "Dept. of Materials & Metallurgical Engineering",
             "institution": "University of Ilorin",
-            "location": "Ilorin, Nigeria."
+            "location": "Ilorin, Nigeria.",
+            "picture":"../assets/img/Engr_ahmed.jpg",
+            "brief":"Prof. Ismaila Idowu Ahmed is the Editor in Chief of the Nigerian Journal of Technological Development (NJTD) and a Professor of Materials and Metallurgical Engineering, at the Faculty of Engineering and Technology (FET), University of Ilorin, Nigeria. His research interests include materials performance and degradation. His major focus is on corrosion protection and control and has published several articles in high impact journals and presentation in conferences and workshops. He is a reviewer for reputable international journals. Prof. I. I. Ahmed is a corporate member of Nigerian Society of Engineers and a Registered Engineer with Council for the Regulation of Engineering in Nigeria.<br>Email: <a href='mailto:ahmed.ii@unilorin.edu.ng'>ahmed.ii@unilorin.edu.ng</a><br>ORCID: <a href='https://orcid.org/0000-0003-1238 -427' target='_blank'> https://orcid.org/0000-0003-1238 -427</a><br>Reasearch Gate: <a href='https://www.researchgate.net/profile/Ismaila-Ahmed-4' target='_blank'> https://www.researchgate.net/profile/Ismaila-Ahmed-4</a><br> Google Scholar: <a href='https://scholar.google.com/citations?user=q5H3PFMAAAAJ&hl=en' target='_blank'>https://scholar.google.com/citations?user=q5H3PFMAAAAJ&hl=en</a><br>SCOPUS: <a href='https://www.scopus.com/authid/detail.uri?authorId=55863582900' target='_blank'>https://www.scopus.com/authid/detail.uri?authorId=55863582900</a>"
         },
         {
             "name": " Engr. Dr. T. D. Akpenpuun",
             "portfolio": "Deputy Editor-in-Chief",
             "dept": "Dept. of Agricultural and Biosystems Engineering",
             "institution": "University of Ilorin",
-            "location": "Ilorin, Nigeria."
-        },
+            "location": "Ilorin, Nigeria.",
+            "picture":"../assets/img/Engr_akpenpuun.jpg",
+            "brief":"Dr. Timothy Denen Akpenpuun is a Lecturer in the Department of Agricultural and Biosystems Engineering, Faculty of Engineering and Technology, University of Ilorin, Ilorin, Nigeria. He specialises in Farm Structures and Environmental Engineering. His research interests are controlled environment agriculture (CEA), greenhouse climate simulation, greenhouse energy simulation, agricultural waste management, and agro-meteorology. Dr. Akpenpuun is a registered engineer with the Council for the Regulation of Engineering in Nigeria (COREN), a Corporate member of the Nigerian Institution of Agricultural Engineers (NIAE), and a Corporate Member of the Korean Society for Biological Environment Control (KSBEC). Dr. Akpenpuun is a reviewer for local and international journals. He has authored several scientific articles published in reputable journal outlets.<br>Email: <a href='mailto:akpenpuun.td@unilorin.edu.ng '>akpenpuun.td@unilorin.edu.ng </a><br>Google Scholar: <a href='https://scholar.google.com/citations?user=OV7Ls_IAAAAJ&hl=en' target='_blank'> https://scholar.google.com/citations?user=OV7Ls_IAAAAJ&hl=en</a><br>Personal Website: <a href='https://sites.google.com/view/dr-timothy-d-akpenpuun/home' target='_blank'> https://sites.google.com/view/dr-timothy-d-akpenpuun/home</a>"
+                },
          {
             "name": " Engr. Dr. A. O. Otuoze",
             "portfolio": "Managing Editor",
             "dept": "Dept. of Electrical & Electronics Engineering",
             "institution": "University of Ilorin",
-            "location": "Ilorin, Nigeria."
+            "location": "Ilorin, Nigeria.",
+            "picture":"../assets/img/Engr_otuoze.jpg",
+            "brief":"Dr. Abdulrahaman Okino Otuoze is a Senior Lecturer in the Department of Electrical and Electronics Engineering, Faculty of Engineering and Technology (FET), University of Ilorin, Nigeria. His research interests include Electrical Power System, Smart Grid Security, Energy Efficiency, Renewable Energy Technology, and Electrical Machine Dr. Otuoze teaches various courses at both undergraduate and postgraduate levels while also undertaking research in the same field. His research interests include renewable energy systems, power systems protection covering smart grid security, electricity theft detections, as well as designs of advanced electrical machines. Dr. Otuoze has authored and co-authored several articles in high impact journals and presentations in conferences, workshops and seminars. He is also an active reviewer for many reputable national and international journal outlets. Dr. Otuoze is a Registered Engineer, Council for the Regulation of Engineering in Nigeria, Corporate Member, Nigerian Society of Engineers and member of several other professional bodies within and outside Nigeria."
         },
         {
             "name": "Engr. Prof. (Mrs.) O. A. A. Eletta",
             "portfolio": "Copy Editor",
             "dept": "Dept. of Chemical Engineering",
             "institution": "University of Ilorin",
-            "location": "Ilorin, Nigeria."
+            "location": "Ilorin, Nigeria.",
+            "picture":"../assets/img/Prof_Eletta.png",
+            "brief":"Prof. Omodele Abiodun Abosede ELETTA is a Professor of Chemical Engineering  in the Department of Chemical Engineering, Faculty of Engineering and Technology (FET), University of Ilorin, Nigeria. Her area of specialization is in environmental pollution studies (with major interest on water pollution) and separation processes. She has published several articles in high impact journals and presentations in conferences, workshops and seminars in her area of specialisation. She is a reviewer for Elsevier, Springer and others. She is a Registered Engineer with the Council for the Regulation of Engineering in Nigeria (COREN), Life Member, Nigerian Society of Engineers, Corporate member of the Association of Professional Women Engineers of Nigeria, Member, African Engineering Education and Fellow of the Nigerian Society of Chemical Engineers. <br>Mobile Number: +2348035817674; +2347086872962 <br> <a href='mailto:modeletta@unilorin.edu.ng '>modeletta@unilorin.edu.ng, modeletta@hotmail.com </a><br>ORCID ID: <a href='https://orcid.org/0000-0002-5079-5548' target='_blank'> https://orcid.org/0000-0002-5079-5548</a><br>SCOPUS ID : 507636805"
+            
+
         },
         
         {
@@ -41,14 +53,18 @@
             "portfolio": "Copy Editor",
             "dept": "Dept. of Electrical and Electronics Engineering",
             "institution": "University of Ilorin",
-            "location": "Ilorin, Nigeria."
+            "location": "Ilorin, Nigeria.",
+            "picture":"../assets/img/Prof_surajudeen_Bakinde.jpg",
+            "brief": "Prof. Nazmat Toyin Surajudeen-Bakinde had her Bachelor of Engineering and Masters of Engineering in 1997 and 2004 respectively from the same department where she works. She was awarded Ph.D. in Electrical Engineering and Electronics in 2010 from University of Liverpool in United Kingdom. Prof. Surajudeen-Bakinde specializes in Telecommunications and has published in reputable journals and book chapters with over eighty papers to her credit. She is also a reviewer for local and international journals. She has won grants with her research teams and conducted different impactful researches. Her current research interests include Ultra-Wideband (UWB) Technology for Short Range and High Speed Communications Systems, Channel Equalization and Signal Detection in Wireless Communications Systems, Internet of Things for Home Automation Systems, Television White Space for Providing different Services, Propagation Models for Mobile Personal Communication System, Colocation of multiple wireless base stations, Spectrum Measurements, Terrestrial Radio Propagation, Computation Intelligence in Radio Propagation, Energy Savings in Heterogeneous Networks, Telemedicine, Information and Communication Technologies for Teaching and Learning and Sustainable Energy Diversity.In her profession, Prof. Surajudeen-Bakinde is a registered member of the Council for the Regulation of Engineering in Nigeria (COREN) and one of the examiners of COREN registration exercise for corporate members. She has also been appointed as a resource person in the COREN accreditation of engineering programmes in some Universities and Polytechnics in Nigeria. Internationally, Prof. Nazmat is registered with the Institution of Engineering and Technology (IET), UK and the Institute of Electrical and Electronics Engineers (IEEE), USA. At home, she is a registered member of the Nigerian Institute of Electrical and Electronic Engineers (NIEEE), Nigerian Society of Engineers (NSE). She is equally a member of the Association of Professional Women Engineers of Nigeria (APWEN) and was the Chairperson of Ilorin branch for two years.<br> Nazmat has equally served the nation in various capacities as resource person for curriculum development and review under National Board for Technical Education, Kaduna, Kaduna State, Development Research Project Centre (dRPC) and United Nations Industrial Development Organization (UNIDO) in partnership with Nigerian Educational Research and Development Council (NERDC). She was a member, Evaluation Committee for the Telecommunications-Based Research Innovations Proposals from the Academics in Nigerian Tertiary Institutions submitted to Nigerian Communications Commission (NCC), Abuja, Nigeria for three years.She has served the University in various positions at the departmental, faculty and university levels, locally and internationally. Prof. Surajudeen-Bakinde was an Assistant Director (Administration), Centre for International Education of the University of Ilorin. She was a Level Adviser, a Postgraduate Coordinator, Acting Head of Department, Member of Quality Assurance Committee in the Department of Electrical and Electronics Engineering. She is presently heading some committees in the Faculty of Engineering and Technology (FET), like Faculty of Engineering and Technology International Conference for 2024, FET Alumni Committee, FET Welfare Committee, FET Ethical Review Committee. A member of the FET Mock Accreditation Committee and FET Outcome Based Education Committee. At the University level, Prof Surajudeen-Bakinde is a representative of the faculty on the Academic Planning and Curriculum Committee. Member, University Mock Accreditation Committee. She is the Senate Representative on Research Grant Committee. She is an Hall Mistress at The Atlantic Height Private Hostel. Prof. Nazmat is an Adviser to a few students body such as APWEN Unilorin Collegiate, Nigerian Universities Engineering Students’ Association (NUESA), Nigerian Association of Electrical and Electronics Engineering Students (NAEEES), Offa Students Union, Unilorin Chapter."
         },
         {
             "name": " Engr. Prof. H. A. Ajimotokan",
             "portfolio": "Copy Editor",
             "dept": "Dept. of Mechanical Engineering",
             "institution": "University of Ilorin",
-            "location": "Ilorin, Nigeria."
+            "location": "Ilorin, Nigeria.",
+            "brief": "Habeeb A. AJIMOTOKAN (PhD, REng) is a Professor of Thermal/Fluid Power, Energy and Process Engineering at the Department of Mechanical Engineering, University of Ilorin. His research interest is in specific or subspecialty areas of Thermal and Fluid Power Engineering, Renewable Energy and Systems; Thermochemical Decomposition; Heat Recovery-to-Power Technologies; Material Energy Efficiency and Sustainability; Process Simulation and Optimisation; Engineering Education; and Nigerian Content Development. He is a Registered Engineer of the Council for Regulation of Engineering in Nigeria (COREN); Member, Nigerian Society of Engineers (NSE); and Member, Nigerian Institution of Mechanical Engineers (NIMechE), among others. His scholarly prowess, contributions to contemporary research, knowledge and consultancy services are evident in his several publications of peer-reviewed scientific articles, books and book chapters in reputable outlets of international standard; and several industry research and technology development contracts.<br> <a href='mailto:hajims@unilorin.edu.ng'>hajims@unilorin.edu.ng</a><br>Google Scholar: <a href='https://scholar.google.com/citations?hl=en&user=yA_cH54AAAAJ' target='_blank'> https://scholar.google.com/citations?hl=en&user=yA_cH54AAAAJ</a><br>ORCID ID: <a href='https://orcid.org/0000-0002-6269-983' target='_blank'> https://orcid.org/0000-0002-6269-983",
+            "picture":"../assets/img/Prof_Ajimotokan.png"
         },
         
         {
@@ -56,28 +72,37 @@
             "portfolio": "Production Editor",
             "dept": "Dept. of Materials & Metallurgical Engineering",
             "institution": "University of Ilorin",
-            "location": "Ilorin, Nigeria."
+            "location": "Ilorin, Nigeria.",
+            "brief": " Prof. Rasheedat Modupe Mahamood, is a Vice-Chancellor Fellow in the Department of Mechanical and Construction Engineering, Faculty of Engineering and Environment, Northumbria University, Newcastle Upon Tyne, United Kingdom. Prio to her joining Northumbria University, she is a full professor at the Department of Materials and Metallurgical Engineering, Faculty of Engineering, University of Ilorin. She has her Bachelor’s degree, Masters degree and PhD in Mechanical Engineering from FUT Minna, University of Ilorin and University of Johannesburg respectively. She is active in renewable energy research and advanced manufacturing technologies such as additive manufacturing and friction stir welding. She has published several articles that includes patents, books, book chapters, journals and conference proceedings. She is a reviewer for several high impact factor journals. Prof Mahamood is a Registered Engineer, Council for the Regulation of Engineering in Nigeria, Corporate Member, Nigerian Society of Engineers, NiMeCHE, SAiMeCHE and other professional bodies within and outside Nigeria<br> <a href='mailto: rasheedat.mahamood@northumbria.ac.uk'> rasheedat.mahamood@northumbria.ac.uk </a><br>Google Scholar: <a href= ‘https://scholar.google.com/citations?user=sdbhHCIAAAAJ&hl=en ' target='_blank'> https://scholar.google.com/citations?user=sdbhHCIAAAAJ&hl=en </a><br>ORCID ID: <a href= ‘https://orcid.org/0000-0002-0973-9843' target='_blank'> https://orcid.org/0000-0002-0973-9843</a><br>Research ID: <a href= ‘https://researchid.co/mahamoodmr ' target='_blank'> https://researchid.co/mahamoodmr </a><br> ORCID ID: <a href= ‘https://www.researchgate.net/profile/Rasheedat-Mahamood ' target='_blank'> https://www.researchgate.net/profile/Rasheedat-Mahamood </a><br>SCOPUS ID : 48361555000",
+            "picture":"../assets/img/Prof_Mahamood.jpg"
         },
         {
             "name": "Engr. M. A. Amoloye",
             "portfolio": "Production Editor",
             "dept": "Dept. of Chemical Engineering",
             "institution": "University of Ilorin",
-            "location": "Ilorin, Nigeria."
+            "location": "Ilorin, Nigeria.",
+            "brief": " AMOLOYE Mubarak Adewale is a Lecturer at the Department of Chemical Engineering, Faculty of Engineering & Technology, University of Ilorin. His teaching and research areas include reaction engineering, chemical engineering thermodynamics, process dynamics and control, renewable and sustainable energy, biomass carbonization, modeling and kinetics, process design, process optimization, and product development. He has published several research articles in high impact journals and also serve as a reviewer for several journal outlets. He is a Registered Engineer, Council for the Regulation of Engineering in Nigeria, Corporate Member. <br> <a href='mailto: amoloye.ma@unilorin.edu.ng'> amoloye.ma@unilorin.edu.ng</a>",
+            "picture":"../assets/img/Engr_Amoloye.jpg"
         },
           {
             "name": "Engr. (Mrs.) O. F. Atilola",
             "portfolio": "Production Editor",
             "dept": "Dept. of Electrical & Electronics Engineering",
             "institution": "Redeemer’s University",
-            "location": "Ede, Nigeria."
+            "location": "Ede, Nigeria.",
+            "brief": " Engr Atilola Olubunmi Folashade, is a Lecturer in the Department of Electrical and Electronics Engineering, Faculty of Engineering and Technology, Redeemers’ University, Ede, Osun State, Nigeria. Her research interests include the Techno economic analysis of a renewable energy with focus on solar energy. She has published an article in high impact journal and presentation in conference and seminars. Engr Atilola is a Registered Engineer, Council for the Regulation of Engineering in Nigeria, Member and Nigerian Society of Engineers.<br> <a href='mailto: atilolaf@run.edu.ng > atilolaf@run.edu.ng  </a><br>",
+            "picture":"../assets/img/Engr_atilola.jpg"
         },
         {
             "name": "Engr. Dr. (Mrs.) O. A. Mokuolu",
             "portfolio": "Treasurer",
             "dept": "Dept. of Water Resources and Environmental Engineering",
             "institution": "University of Ilorin",
-            "location": "Ilorin, Nigeria."
+            "location": "Ilorin, Nigeria.",
+            "brief": " Dr. Mokuolu is a Lecturer, Researcher and a mentor at the Department of Water Resources and Environmental Engineering, University of Ilorin. She has publications in reputable journals and presented papers in international conferences. She is experienced in circular economy, solid waste engineering and management (solid waste, plastics, recycling) environmental health engineering having quantified the environmental factors for malaria reduction in a peri- urban community. She recently attended a training workshop on outcome-based education which outlined the importance of the students’ success in the learning and teaching experiences. She co- wrote circular economy: Nigeria perspectives, a book that has attained a high level of global acceptance. She is a master trainer in solid waste management from source to disposal/ end use. She started her career in the industries with engineering consultancy firms bringing her experiences in structural design and analysis of building structures, supervision and training of interns. She has good knowledge of use of Computer. Dr. Mokuolu has extensive teaching and capacity building skills and has served on several Committees of the University where she worked. She is a Fellow of the Nigerian society of Engineers, COREN registered and has received Scholarships/ awards including Science of eradication: Malaria leadership development fund at the Barcelona Institute for Global Health, Harvard University, and Swiss Tropical and Public Health Institute.<br> <a href='mailto: Mokuolu.oa@unilorin.edu.ng'> Mokuolu.oa@unilorin.edu.ng</a><br> ORCID ID: <a href= 'https://orcid.org/0000-0001-6910-6784' target='_blank'>  https://orcid.org/0000-0001-6910-6784</a><br>ResearchGate: <a href= ‘https://www.researchgate.net/profile/Olubunmi-Mokuolu' target='_blank'> https://www.researchgate.net/profile/Olubunmi-Mokuolu</a>",
+            "picture":"../assets/img/Dr_Mokuolu.png"
+
         },
         {
             "name": "Engr. Prof. B. J. Olufeagba",
@@ -93,42 +118,60 @@
             "name": "Engr. Dr. H. U. Hambali",
             "dept": "Department of Chemical Engineering",
             "institution": "University of Ilorin",
-            "location": "Ilorin, Nigeria."
+            "location": "Ilorin, Nigeria.",
+            "brief": " Dr Hambali Umar Hambali, is a Lecturer in the Department of Chemical Engineering, Faculty of Engineering and Technology (FET), University of Ilorin, Nigeria. His research interests include development of industrial heterogeneous catalysts and adsorbents for application in the field of reforming, effluent treatment, Carbon dioxide capture, clean fuel and petrochemicals production. He has published several articles in high impact journals and presentation in conference, workshops and seminars. He is a reviewer for Elsevier and Springer. Dr Hambali is a Registered Engineer, Council for the Regulation of Engineering in Nigeria, Corporate Member, Nigerian Society of Engineers and member of several other professional bodies within and outside Nigeria.<br> <a href='mailto: hambali.hu@unilorin.edu.ng’> hambali.hu@unilorin.edu.ng </a><br> ORCID ID: <a href= ‘https://orcid.org/0000-0003-2747-6212' target='_blank'>  https://orcid.org/0000-0003-2747-6212</a><br>ResearchGate: <a href= ‘https://www.researchgate.net/profile/Hambali-Hambali' target='_blank'> https://www.researchgate.net/profile/Hambali-Hambali </a>",
+            "picture":"../assets/img/Dr_Hambali.jpg"
+
+
         },
         {
             "portfolio": "Section B: Materials and Metallurgical Engineering, Geology and Geophysics",
             "name": "Engr. Dr. J. A. Adebisi",
             "dept": "Department of Materials and Metallurgical Engineering",
             "institution": "University of Ilorin",
-            "location": "Ilorin, Nigeria."
+            "location": "Ilorin, Nigeria.",
+            "brief": " Jeleel Adekunle Adebisi is an Associate Professor in the Department of Materials and Metallurgical Engineering (MME), Faculty of Engineering and Technology (FET), University of Ilorin, Nigeria. His research interests focus on the development of new materials, materials characterization, modeling and simulation of metallurgical and materials processes, casting, and welding. He is presently associated with the Material Development and Performance Laboratory (MDPL). He has served at various levels in the University. He is currently the Information Technology officer, level adviser, postgraduate coordinator in MME, and acting head of Department. He had served in the department as an examination officer. At the faculty level, he is the present SWEP coordinator and a sectional editor of the Nigerian Journal of Technological Development (NJTD), a Scopus-indexed FET journal. He was a supervisor of Community Based Engineering Experience (COBES) for final-year students. Dr. Adebisi is a registered engineer and a member of several professional organizations.<br> <a href='mailto: adebisi.ja@unilorin.edu.ng’> adebisi.ja@unilorin.edu.ng </a><br> ORCID ID: <a href= ‘https://orcid.org/0000-0002-1371-9191' target='_blank'>  https://orcid.org/0000-0002-1371-9191</a><br>ResearchGate: <a href= ‘https://www.researchgate.net/profile/Jeleel-Adebisi ' target='_blank'> https://www.researchgate.net/profile/Jeleel-Adebisi </a>",
+            "picture":"../assets/img/Dr_Adebisi.png"
+
         },
         {
             "portfolio": "Section C: Biomedical Engineering",
             "name": "Engr. Dr. S. A. Yahaya",
             "dept": "Department of -Biomedical Engineering ",
             "institution": "University of Ilorin",
-            "location": "Ilorin, Nigeria."
+            "location": "Ilorin, Nigeria.",
+            "brief":"Dr. Yahaya is a Senior Lecturer in the Department of Biomedical Engineering at the University of Ilorin, Nigeria, where he has made substantial contributions to the field of biomedical engineering. His research expertise spans design, biomechanics, biomaterials, assistive technologies, and additive manufacturing. Dr. Yahaya’s extensive body of work includes significant publications on friction stir welding, assistive technologies for the visually impaired, and sustainable engineering solutions for healthcare.Dr. Yahaya’s innovative research has been recognized for its impact, as evidenced by his highly cited studies in top journals. His work on developing an obstacle and pit-detecting ultrasonic walking stick for the blind and his contributions to improving the performance of 3D-printed hip protectors exemplify his commitment to advancing practical solutions in biomedical engineering.As the new Sectional Editor for Biomedical Engineering, Dr. Yahaya will bring his vast knowledge and experience to the NJTD, ensuring the continued excellence and relevance of our publications in this dynamic field. We are confident that his leadership will significantly contribute to the journal’s mission of advancing technological development and innovation.Dr. Yahaya is a COREN registered Engineer and a member of the Nigerian Society of Engineers and other professional bodies.",
+            "picture":"../assets/img/Dr_Yahaya.jpg"
         },
         {
             "portfolio": "Section D: Civil and Water Resources Engineering",
             "name": "Dr. Y. O. Babatunde",
             "dept": "Department of Civil Engineering",
             "institution": "University of Ilorin",
-            "location": "Ilorin, Nigeria."
+            "location": "Ilorin, Nigeria.",
+            "brief": " Dr. Yusuf Olawale BABATUNDE, is a lecturer in the Department of Civil Engineering, Faculty of Engineering and Technology, University of Ilorin. His research areas are structural materials, sustainable and low-carbon binders, numerical modeling of composites, 3D concrete printing, and machine learning. He has authored over 20 publications in reputable outlets covering journals, and edited conference proceedings. He is currently co-supervising master dissertations and Ph.D. theses. He is a member of different professional bodies, such as the Council for the Regulation of Engineering in Nigeria (COREN), the Nigerian Society of Engineers (NSE), and the Nigerian Institute of Management (NIM).<br> <a href=' babatunde.oy@unilorin.edu.ng'> babatunde.oy@unilorin.edu.ng </a><br> ORCID ID: <a href= 'https://orcid.org/0000-0002-1468-8884' target='_blank'>https://orcid.org/0000-0002-1468-8884</a><br> Google Scholar: <a href= 'https://scholar.google.com/citations?user=8JNz_EwAAAAJ&hl=en ' target='_blank'> https://scholar.google.com/citations?user=8JNz_EwAAAAJ&hl=en </a><br>ResearchGate: <a href = 'https://www.researchgate.net/profile/Olawale-Babatunde' target='_blank'> https://www.researchgate.net/profile/Olawale-Babatunde </a>",
+            "picture":"../assets/img/Dr_Babatunde.jpg"
+
         },
         {
             "portfolio": "Section E: Mechanical Engineering",
             "name": "Dr. K. O. Abdulrahman",
             "dept": "Department of Mechanical Engineering,",
             "institution": "University of Ilorin",
-            "location": "Ilorin, Nigeria."
+            "location": "Ilorin, Nigeria.",
+            "brief": " Dr Kamardeen Olajide Abdulrahman, is a Lecturer in the Department of Mechanical Engineering, Faculty of Engineering and Technology (FET), University of Ilorin, Nigeria. His research interests include Advanced materials and Characterization, Additive Manufacturing, Laser Metal Deposition, Failure analysis, Design and Manufacturing.He has published several notable works in journals, conference proceedings and books. He is also a reviewer for reputable journals. Dr Abdulrahman is a Registered Engineer with Council for the Regulation of Engineering in Nigeria (COREN) and Corporate Member of The Nigerian Institution of Mechanical Engineers.<br> <a href=' abdulrahman.ko@unilorin.edu.ng'> abdulrahman.ko@unilorin.edu.ng</a><br> ORCID ID: <a href= 'https://orcid.org/0000-0001-5079-349X' target='_blank'> https://orcid.org/0000-0001-5079-349X </a><br>ResearchGate: <a href = 'https://www.researchgate.net/profile/Kamardeen-Abdulrahman' target='_blank'> https://www.researchgate.net/profile/Kamardeen-Abdulrahman </a>",
+            "picture":"../assets/img/Dr_Abdulrahman.jpg"
+
         },
          {
             "portfolio": "Section :F Electrical and Electronics Engineering, Computer Engineering, Applied Mathematics, and Computer Science",
             "name": "Dr. A. S. Afolabi",
             "dept": "Department of Electrical and Electronics Engineering",
             "institution": "University of Ilorin",
-            "location": "Ilorin, Nigeria."
+            "location": "Ilorin, Nigeria.",
+            "brief": " Dr. Akindele Segun Afolabi is a lecturer at the Department of Electrical and Electronics Engineering, Faculty of Engineering and Technology, University of Ilorin. He is fully registered with the Council for the Regulation of Engineering in Nigeria (COREN) and he is a member of both local and international professional bodies. Dr. Afolabi has authored/co-authored many conference papers and journal articles some of which are indexed in Scopus/ISI. He was a recipient of the Japanese Government MEXT Ph.D Scholarship Award and his research interests include wireless network radio resource optimisation, small cell systems and network densification, orthogonal and millimeter wave communications, mobile ad-hoc networks, and application of machine learning in wireless networks.<br> <a href=' afolabisegun@unilorin.edu.ng’ afolabisegun@unilorin.edu.ng </a><br> ORCID ID: <a href= ‘https://orcid.org/0000-0002-5596-0346 ' target='_blank'> https://orcid.org/0000-0002-5596-0346 </a><br>ResearchGate: <a href = ‘https://www.researchgate.net/profile/Akindele-Afolabi ' target='_blank'> https://www.researchgate.net/profile/Akindele-Afolabi </a>",
+            "picture":"../assets/img/Dr_Afolabi.jpg"
+
         },
          
         {
@@ -136,7 +179,9 @@
             "name": "Mrs. Adepeju A. Adeboboye ",
             "dept": "Department of Computer Engineering",
             "institution": "University of Ilorin",
-            "location": "Ilorin, Nigeria."
+            "location": "Ilorin, Nigeria.",
+            "brief": " ADEBOBOYE Adepeju Adedayo, is an Editorial Assistant in the Nigeria Journal Technology Development, Faculty of Engineering and Technology (FET), University of Ilorin, Nigeria. She is a graduate of Computer Engineering Technology Federal Polytechnic Offa, Kwara State. She is an entrepreneur.<br> <a href=' adeboboyeadepeju@gmail.com' target='_blank'> adeboboyeadepeju@gmail.com </a>",
+            "picture":"../assets/img/Engr_Adepeju.jpg"
         }
     ],
       "guest": [
@@ -145,21 +190,31 @@
             "name": "Prof. Y. Mijinyawa",
             "dept": "Department of Agricultural and Environmental Engineering",
             "institution": "University of Ibadan",
-            "location": "Ibadan, Nigeria."
+            "location": "Ibadan, Nigeria.",
+            "brief": " Yahaya Mijinyawa, is a Professor of Farm Structures and Environment at the Department of Agricultural and Environmental Engineering, Faculty of Technology, University of Ibadan, Ibadan, Nigeria He is a Member of the Nigerian Society of Engineers (MNSE); a Fellow of the Nigerian Institution of Agricultural Engineers (FNIAE) and a Registered Engineer (R. Engr) with the Council for the Regulation of Engineering in Nigeria (COREN) His areas of interest in which he has published extensively include silos for the storage of agricultural produce, noise in farm environment, Control Environment Agriculture especially greenhouses, construction materials development, farmstead planning and farm transportation",
+            "picture":"../assets/img/Prof_Mijinyawa.png"
+
         },
         {
             "portfolio": "Guest Editor",
             "name": "Dr. S. I. Talabi",
             "dept": "Department of Materials Science and Engineering ",
             "institution": "Oak Ridge National Laboratory",
-            "location": "USA."
+            "location": "USA.",
+            "brief": " Dr. Talabi Segun Isaac holds a PhD in Materials Science and Engineering and has over a decade of academic experience, rising to the position of Associate Professor. Dr. Talabi has had the privilege of mentoring numerous undergraduate students, demonstrating a commitment to education and academic growth. He equally serves as Associate Editor for International Journal of Applied Ceramic Technology, Wiley and holds memberships in esteemed professional organizations such as the Society for the Advancement of Material and Process Engineering (SAMPE). He has over forty publications in peer-reviewed international journals, including a book chapter. Dr Talabi is a Registered Engineer, Council for the Regulation of Engineering in Nigeria. He currently works at Oak Ridge National Laboratory, USA.<br> <a href=' talabisi@ornl.gov' target='_blank'> talabisi@ornl.gov </a><br> ORCID ID: <a href= 'https://orcid.org/0000-0003-4021-5594' target='_blank'> https://orcid.org/0000-0003-4021-5594 </a><br>ResearchGate: <a href = 'https://www.researchgate.net/profile/S-Talabi' target='_blank'> https://www.researchgate.net/profile/S-Talabi </a>",
+            "picture":"../assets/img/Dr_Talabi.jpg"
+
+
         },
         {
             "portfolio": "Guest Editor",
             "name": "Dr. B. Jimada-Ojuolape",
             "dept": "Department of Electrical and Computer Engineering ",
             "institution": "Kwara State University",
-            "location": "Malete, Nigeria."
+            "location": "Malete, Nigeria.",
+            "brief": " Dr. Bilkisu Jimada-Ojuolape received her B.Sc. degree (Hons.) in electrical/electronic engineering from Kwame Nkrumah University of Science and Technology, Kumasi, Ghana, in 2011, the M.Sc. degree in systems engineering from Loughborough University, Loughborough, U.K., in 2013, and the Ph.D. degree from Universiti Sains Malaysia, Penang, Malaysia, in 2022. She currently lecturers at the department of electrical and computer engineering, faculty of engineering and technology, Kwara state university. Her current research interests include cyber-physical power systems, dynamic thermal rating systems (DTR), renewable energy, smart grid reliability, and ICTs in smart grids. She is a member of the Association of Practicing Women Engineers in Nigeria (APWEN) and the Nigerian Society of Engineers (NSE). She is certified by the Council for the Regulation of Engineering in Nigeria (COREN).<br> <a href=' bilkisu.jimada@kwasu.edu.ng' target='_blank'> bilkisu.jimada@kwasu.edu.ng </a><br> ORCID ID: <a href= 'https://orcid.org/0000-0001-8592-8438' target='_blank'> https://orcid.org/0000-0001-8592-8438</a><br>ResearchGate: <a href = 'https://www.researchgate.net/profile/Bilkisu-Jimada-Ojuolape ' target='_blank'> https://www.researchgate.net/profile/Bilkisu-Jimada-Ojuolape </a>",
+            "picture":"../assets/img/Engr_Jimada-ojuolape.jpg"
+
         }
     ],
 
